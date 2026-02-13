@@ -3,6 +3,7 @@ import React from 'react';
 const About = () => {
     return (
         <div>
+            <title>Book vibe -About</title>
             <h1>About</h1>
         </div>
     );

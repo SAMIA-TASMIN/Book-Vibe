@@ -29,6 +29,7 @@ const BookDetailes = () => {
     }
     return (
         <div className=' w-1/2 mx-auto'>
+            <title>{bookName}</title>
             <img className='w-48' src={image} alt="" />
             <h5>{bookName}</h5>
             <ToastContainer />
